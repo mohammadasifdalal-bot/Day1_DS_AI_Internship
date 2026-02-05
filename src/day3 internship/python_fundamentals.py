@@ -47,7 +47,7 @@ print(item_name,quantity,price,in_stock)
 totalcost=quantity*price
 print(totalcost)
 
-day3 internship
+#day3 internship
 
 student_list=["heer",24,8.86]
 print(student_list)
@@ -81,5 +81,5 @@ print("printing the\"last 3 hour",tempreature[-3])
 #task3
 screen_res=(1920,1080)
 print("current Resolution:1920x1080")
-#screen_res[0]=1280
+screen_res[0]=1280
 print("Tuples cannot be modify")
